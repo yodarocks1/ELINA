@@ -19,8 +19,8 @@
 #
 
 
-from elina_tcons0_h import *
-from elina_auxiliary_imports import *
+from .elina_tcons0_h import *
+from .elina_auxiliary_imports import *
 
 # ********************************************************************** #
 # I. elina_tcons0_t

@@ -19,11 +19,11 @@
 #
 
 
-from fppoly_imports import *
-from elina_manager_h import *
-from elina_abstract0_h import *
-from elina_interval_h import *
-from elina_linexpr0_h import *
+from .fppoly_imports import *
+from .elina_manager_h import *
+from .elina_abstract0_h import *
+from .elina_interval_h import *
+from .elina_linexpr0_h import *
 import numpy as np 
 from numpy.ctypeslib import ndpointer
 import ctypes

@@ -19,9 +19,9 @@
 #
 
 
-from zonoml_imports import *
-from elina_manager_h import *
-from elina_abstract0_h import *
+from .zonoml_imports import *
+from .elina_manager_h import *
+from .elina_abstract0_h import *
 import numpy as np 
 from numpy.ctypeslib import ndpointer
 import ctypes

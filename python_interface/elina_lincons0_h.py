@@ -19,7 +19,7 @@
 #
 
 
-from elina_linexpr0 import *
+from .elina_linexpr0 import *
 
 
 # ************************************************************************* #

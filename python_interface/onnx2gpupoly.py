@@ -29,7 +29,7 @@ import onnx.utils
 import onnx.numpy_helper
 import numpy as np
 
-from gpupoly import Network
+from .gpupoly import Network
 
 ## Load a pre-trained Onnx network into the GPUPoly library.
 def onnx2gpupoly(graph, useAreaHeuristic=True):

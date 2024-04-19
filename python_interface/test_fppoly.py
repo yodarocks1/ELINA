@@ -1,7 +1,7 @@
 import numpy as np
-from fppoly import *
-from elina_abstract0 import *
-from elina_manager import *
+from .fppoly import *
+from .elina_abstract0 import *
+from .elina_manager import *
 
 from ctypes import *
 from ctypes.util import *

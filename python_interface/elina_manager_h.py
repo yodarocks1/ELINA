@@ -23,7 +23,7 @@
 # elina_manager.h: global manager passed to all functions
 # ************************************************************************* #
 
-from elina_coeff_h import *
+from .elina_coeff_h import *
 
 
 # ********************************************************************** #

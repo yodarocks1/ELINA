@@ -19,8 +19,8 @@
 #
 
 
-from elina_auxiliary_imports import *
-from elina_texpr0_h import *
+from .elina_auxiliary_imports import *
+from .elina_texpr0_h import *
 
 
 # ======================================================================

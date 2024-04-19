@@ -19,7 +19,7 @@
 #
 
 
-from elina_dimension_h import *
+from .elina_dimension_h import *
 
 # ====================================================================== #
 # Functions

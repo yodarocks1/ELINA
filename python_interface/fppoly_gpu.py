@@ -23,11 +23,11 @@ import numpy as np
 from numpy.ctypeslib import ndpointer
 import ctypes
 
-from fppoly_gpu_imports import *
-from elina_manager_h import *
-from elina_abstract0_h import *
-from elina_interval_h import *
-from elina_linexpr0_h import *
+from .fppoly_gpu_imports import *
+from .elina_manager_h import *
+from .elina_abstract0_h import *
+from .elina_interval_h import *
+from .elina_linexpr0_h import *
 
 c_float_type = ctypes.c_double
 float_type = np.double

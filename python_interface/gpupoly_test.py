@@ -29,7 +29,7 @@ import numpy as np
 import onnx
 import time
 import argparse
-from onnx2gpupoly import onnx2gpupoly
+from .onnx2gpupoly import onnx2gpupoly
 
 
 parser=argparse.ArgumentParser("GPUPoly ONNX frontend")

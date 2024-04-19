@@ -19,8 +19,8 @@
 #
 
 
-from elina_dimension_h import *
-from elina_coeff_h import *
+from .elina_dimension_h import *
+from .elina_coeff_h import *
 
 
 # ====================================================================== #

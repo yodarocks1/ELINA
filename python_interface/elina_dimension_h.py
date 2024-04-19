@@ -19,7 +19,7 @@
 #
 
 
-from elina_auxiliary_imports import *
+from .elina_auxiliary_imports import *
 
 # ====================================================================== #
 # Datatypes

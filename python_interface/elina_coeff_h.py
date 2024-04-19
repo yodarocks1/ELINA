@@ -19,7 +19,7 @@
 #
 
 
-from elina_interval_h import *
+from .elina_interval_h import *
 
 # ************************************************************************* #
 # elina_coeff.h: coefficients, that are either scalars or intervals

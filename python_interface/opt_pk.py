@@ -19,8 +19,8 @@
 #
 
 
-from opt_pk_imports import *
-from elina_manager_h import *
+from .opt_pk_imports import *
+from .elina_manager_h import *
 
 # ====================================================================== #
 # Basics

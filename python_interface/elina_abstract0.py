@@ -18,7 +18,7 @@
 #
 #
 
-from elina_abstract0_h import *
+from .elina_abstract0_h import *
 
 
 # ********************************************************************** #

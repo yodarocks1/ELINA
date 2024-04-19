@@ -24,9 +24,9 @@
 # elina_abstract0.h: generic operations on numerical abstract values
 # ************************************************************************* #
 
-from elina_manager_h import *
-from elina_texpr0_h import *
-from elina_tcons0_h import *
+from .elina_manager_h import *
+from .elina_texpr0_h import *
+from .elina_tcons0_h import *
 
 
 class ElinaAbstract0(Structure):

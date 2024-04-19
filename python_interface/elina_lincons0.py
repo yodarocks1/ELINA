@@ -19,7 +19,7 @@
 #
 
 
-from elina_lincons0_h import *
+from .elina_lincons0_h import *
 
 
 # ********************************************************************** #

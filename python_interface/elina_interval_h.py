@@ -19,7 +19,7 @@
 #
 
 
-from elina_scalar_h import *
+from .elina_scalar_h import *
 
 # ************************************************************************* #
 # elina_interval.h: intervals

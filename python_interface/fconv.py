@@ -19,7 +19,7 @@
 #
 
 
-from fconv_imports import *
+from .fconv_imports import *
 
 import numpy as np
 from ctypes import *
